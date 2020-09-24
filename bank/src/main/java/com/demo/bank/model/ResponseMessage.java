@@ -1,7 +1,5 @@
 package com.demo.bank.model;
 
-import lombok.Getter;
-import lombok.Setter;
 
 public class ResponseMessage {
 
